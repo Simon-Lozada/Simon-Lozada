@@ -1,9 +1,9 @@
 # :wave: Hi
  - :smiley:I'm @ Simon-Lozada, I'm a programming enthusiast who loves to learn new technologies
  - :muscle: some of my current skills are:
-  - :date:SQL(Oracle, My SQl)
-  - :lock_with_ink_pen:Cyber securiti 
-  - :snake:Python
+   - :date:SQL(Oracle, My SQl)
+   - :lock_with_ink_pen:Cyber securiti 
+   - :snake:Python
 - 🌱 I am currently learning: 
   -
   - data science  
